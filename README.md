@@ -1,2 +1,3 @@
 # Simple-Js-calculator-Git-testing-
-Create this repository just to test the features of git
+Simple Js Calculator Using html Css and javascript
+Make this repositry just to test the features of git
